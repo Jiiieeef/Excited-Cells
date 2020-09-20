@@ -1,0 +1,23 @@
+{
+  "name": "excited-cells",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jiiieeef/Excited-Cells.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jiiieeef/Excited-Cells/issues"
+  },
+  "homepage": "https://github.com/Jiiieeef/Excited-Cells#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.3"
+  }
+}
